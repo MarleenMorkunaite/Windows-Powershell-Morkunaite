@@ -1,0 +1,8 @@
+    Directory: C:\Windows\Temp
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        04.02.2025     14:27         185318 MpSigStub.log
+-a----        04.02.2025     14:17         137736 vdagent.log
+-a----        04.02.2025     14:17          28143 vdservice.log
